@@ -20,27 +20,5 @@
         "text": "exampledomain@domain.com"
       }
     ]
-  },
-  "themeOneCounterSection": [
-    {
-      "count": "2.6",
-      "countHeading": "K",
-      "title": "Users"
-    },
-    {
-      "count": "5",
-      "countHeading": "K",
-      "title": "Performance Analysis"
-    },
-    {
-      "count": "8",
-      "countHeading": "K",
-      "title": "incomes"
-    },
-    {
-      "count": "28",
-      "countHeading": "K",
-      "title": "Expenses"
-    }
-  ]
+  }
 }
