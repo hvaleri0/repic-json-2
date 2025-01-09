@@ -1,12 +1,4 @@
 {
-  "themeOneHeaderSection": {
-    "heading": "Make cool Landing pages with sApp",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit nihil tenetur minus quidem est deserunt molestias accusamus harum ullam tempore debitis et, expedita, repellat delectus aspernatur neque itaque qui quod.",
-    "headingSlug": "* Available on iPhone and Android devices",
-    "playImg": "/img/google-play.png",
-    "appleImg": "/img/app-store.png",
-    "heroThumb": "/img/welcome_mockup.png"
-  },
   "themeOneContactSection": {
     "heading": "Stay Tuned",
     "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
@@ -28,5 +20,27 @@
         "text": "exampledomain@domain.com"
       }
     ]
-  }
+  },
+  "themeOneCounterSection": [
+    {
+      "count": "2.6",
+      "countHeading": "K",
+      "title": "Users"
+    },
+    {
+      "count": "5",
+      "countHeading": "K",
+      "title": "Performance Analysis"
+    },
+    {
+      "count": "8",
+      "countHeading": "K",
+      "title": "incomes"
+    },
+    {
+      "count": "28",
+      "countHeading": "K",
+      "title": "Expenses"
+    }
+  ]
 }
