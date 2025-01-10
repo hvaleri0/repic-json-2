@@ -1,23 +1,23 @@
 {
   "themeOneContactSection": {
-    "heading": "Stay Tuned",
-    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "heading": "Get in Touch",
+    "headingText": "Have questions or need assistance? We're here to help you.",
+    "content": "Reach out to our team for support, inquiries, or partnership opportunities. We’d love to hear from you.",
     "iconList": [
       {
         "id": 1,
-        "iconClass": "fas fa-home",
-        "text": "Vestibulum nulla libero, convallis, tincidunt suscipit diam, DC 2002"
+        "iconClass": "fas fa-map-marker-alt",
+        "text": "PO BOX 89 Washington, MI 48094 United States"
       },
       {
         "id": 2,
         "iconClass": "fas fa-phone-alt",
-        "text": "+1 230 456 789-012 345 6789"
+        "text": "+1 947 277 1787"
       },
       {
         "id": 3,
         "iconClass": "fas fa-envelope",
-        "text": "exampledomain@domain.com"
+        "text": "support@repic.io"
       }
     ]
   }
